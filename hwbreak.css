@@ -1,0 +1,74 @@
+body{
+    background-image: url("./Black_colour.jpg");
+   
+}
+td{
+    color: white;
+    
+}
+table {
+    
+    margin-left: 10%;
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-left: 30px;
+
+}
+input{
+    width: 250px;
+    height: 25px;
+}
+ tr td{
+    padding: 10px;
+ height: 20px;
+}
+h3{
+    border: 1px soild rgb(8, 240, 8);
+}
+.signup{
+    background-color: rgb(61, 159, 61);
+    color:rgb(17, 72, 12);
+    width: 260px;
+    height: 30px;
+    
+    
+}
+.signup:hover{
+    background-color: blue;
+}
+table{
+    
+    
+}
+label{
+    text-indent: 20px;
+    color: rgb(72, 65, 65);
+}
+a{
+    color: white;
+}
+h1::first-letter{
+    color: red;
+    
+}
+input{
+    color: red;
+
+}
+article{
+    margin-top: -500px;
+    margin-left: 900px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+aside{
+    color: white ;
+    margin-left: 900px;
+    
+    height: 80px;
+    width: 280px;
+    line-height: 20px;
+}
+
